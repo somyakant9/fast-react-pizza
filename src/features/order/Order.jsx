@@ -25,8 +25,8 @@ const order = useLoaderData();
   const deliveryIn = calcMinutesLeft(estimatedDelivery);
 
   return (
-    <div>
-      <div>
+    <div >
+      <div >
         <h2>Status</h2>
 
         <div>
